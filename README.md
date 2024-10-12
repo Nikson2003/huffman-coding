@@ -26,7 +26,7 @@ This project implements a simple Huffman coding algorithm for compressing and de
 
 3. Ensure you have Python installed. You can check your Python version with:
 
-    '''bash
+    ```bash
    python --version
 
 ## Usage
@@ -58,11 +58,3 @@ This project implements a simple Huffman coding algorithm for compressing and de
 6. Compression: The padded binary string is converted into a byte array and written to a binary file.
 
 7. Decompression: The binary file is read, decoded, and the original text is restored.
-
-## Contact
-
-For any inquiries or feedback, feel free to reach out:
-
-- **Developer**: Nikson Nadar
-- **GitHub**: [Nikson2003](https://github.com/Nikson2003)
-- **Project Repository**: [huffman-coding](https://github.com/Nikson2003/huffman-coding)
